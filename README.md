@@ -1,2 +1,2 @@
-# -Python-Stepik
+# Python_OOP-Stepik
 Изучение ООП
