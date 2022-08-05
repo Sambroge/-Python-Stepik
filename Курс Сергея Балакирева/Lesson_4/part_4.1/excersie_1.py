@@ -5,7 +5,7 @@ class Animal:
 
 
 class Cat(Animal):
-    def __init__(self, name, old, color, weight):
+    def __init__(self, name, old, jkl;
         super().__init__(name, old)
         self.color = color
         self.weight = weight
